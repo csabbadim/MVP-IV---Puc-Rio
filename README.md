@@ -13,3 +13,4 @@ https://catarina-sabbadim.atlassian.net/jira/software/projects/ELMVP/boards/3/ba
 https://www.figma.com/file/6Apla8h2KLTWB0Jr3MJMrj/MVP-IV---EasyLibrary?type=design&node-id=0%3A1&mode=design&t=CmbeYrMQMDARlBDF-1
 
 # Vídeo de apresentação
+https://youtu.be/r8y9UfZOYVA
