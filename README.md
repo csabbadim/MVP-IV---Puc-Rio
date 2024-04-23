@@ -6,9 +6,6 @@ O projeto possui como objetivo desenvolver um aplicativo para auxílio no contro
 # MVP Canvas
 https://miro.com/app/board/uXjVKfFB68o=/?share_link_id=256671194710
 
-# Projeto no Jira
-https://catarina-sabbadim.atlassian.net/jira/software/projects/ELMVP/boards/3/backlog?selectedIssue=ELMVP-1&atlOrigin=eyJpIjoiOTZlYmEzZTc4Y2E2NGY2MjllZDAyZjlhNTQyMDFlZTMiLCJwIjoiaiJ9
-
 # Protótipo no Figma
 https://www.figma.com/file/6Apla8h2KLTWB0Jr3MJMrj/MVP-IV---EasyLibrary?type=design&node-id=0%3A1&mode=design&t=CmbeYrMQMDARlBDF-1
 
